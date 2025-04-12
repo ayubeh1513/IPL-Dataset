@@ -7,7 +7,7 @@ This repository contains a clean, detailed Excel dataset of all IPL matches from
 
 ## 📁 File Included
 
-- `IPL_Dataset_2008_to_2024.xlsx`  
+- `ipl dataset (1).xlsx`  
   → A single Excel file with match-level data spanning 17 IPL seasons.
 
 ---
